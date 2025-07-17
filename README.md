@@ -1,2 +1,2 @@
-GitHub Pages Test
-These files are parts of another repository.
+"GitHub Pages" Test
+These files are temporary. Those come from another repository.
